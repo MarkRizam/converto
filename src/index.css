@@ -1,0 +1,13 @@
+/* Reset default margin and set font */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Header styling */
+h1 {
+  color: #0077c8;
+  margin-bottom: 20px;
+}
